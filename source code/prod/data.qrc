@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>animal.txt</file>
+    </qresource>
+</RCC>
